@@ -1,17 +1,17 @@
-url: https://y7kim.github.io
-baseurl: /agency-jekyll-theme/
+url: https://fernandoandreotti.github.io
+baseurl: /cibim/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Computational Intelligence in BIomedical Monitoring (CIBIM)
+email: mdv@eng.ox.ac.uk
+description: "Test homepage"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Prof. Maarten De Vos
   pic: 1
-  position: Lead Designer
+  position: Group Leader
   social:
     - title: twitter
       url: #
@@ -45,15 +45,15 @@ people:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://twitter.com/CIBIM_lab
+#  - title: facebook
+#    url:
+# - title: stack-overflow
+#   url: http://stackoverflow.com/questions/tagged/cibim
+# - title: bitbucket 
+#   url: http://bitbucket.org/jekyll
+# - title: github
+#   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
