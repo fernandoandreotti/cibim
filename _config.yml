@@ -9,7 +9,7 @@ description: "Test homepage"
 
 # Team names, titles and social links
 people:
-- name: Prof. Maarten De Vos
+- name: Prof. MDV
   pic: 1
   position: Group Leader
   social:
