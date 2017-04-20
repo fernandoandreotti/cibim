@@ -5,8 +5,8 @@
     <description>CIBIM Lab</description>
     <link>http://localhost:4000/cibim//</link>
     <atom:link href="http://localhost:4000/cibim//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 20 Apr 2017 18:37:02 +0100</pubDate>
-    <lastBuildDate>Thu, 20 Apr 2017 18:37:02 +0100</lastBuildDate>
+    <pubDate>Thu, 20 Apr 2017 21:19:15 +0100</pubDate>
+    <lastBuildDate>Thu, 20 Apr 2017 21:19:15 +0100</lastBuildDate>
     <generator>Jekyll v3.4.2</generator>
     
       <item>
@@ -75,7 +75,7 @@
 
 &lt;p&gt;Crucial for data mining is the format in which the data is represented.  Arrays with two or more dimensions, which we call matrices and tensors, serve as the computer representation of many types of data. Tensors provide often a natural and compact representation for such massive multidimensional data often available in long-term biomedical monitoring applications. In order to tackle big data analytics, we develop and optimise novel tools that efficiently process huge datasets. This approach to multidimensional big data is often called multiway analysis, which aims to represent the observations with a small number of variables by exploiting the underlying structure.&lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt;![alt text](img/portfolio/tensors.png &quot;Tensors used in classification&quot;)&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;img/portfolio/tensors.png&quot; alt=&quot;alt text&quot; title=&quot;Tensors used in classification&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The ever-increasing volume of data demands algorithms that can deal with the curse of dimensionality, while the growing variety of data requires sophisticated approaches to datafusion, i.e. analysing several sources of data at once.   Also solutions for missing data (or discarding data of insufficient quality) can be designed in the tensor framework. We demonstrated in the past that the development of tensor tools is useful for very different applications in medical engineering, e.g. in neonatal monitoring, epilepsy monitoring, classification of single-trial brain responses, etc.&lt;/p&gt;
 </description>

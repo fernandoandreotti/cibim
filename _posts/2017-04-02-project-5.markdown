@@ -16,6 +16,6 @@ In our information era, the amount of data one has access to is tremendously inc
 
 Crucial for data mining is the format in which the data is represented.  Arrays with two or more dimensions, which we call matrices and tensors, serve as the computer representation of many types of data. Tensors provide often a natural and compact representation for such massive multidimensional data often available in long-term biomedical monitoring applications. In order to tackle big data analytics, we develop and optimise novel tools that efficiently process huge datasets. This approach to multidimensional big data is often called multiway analysis, which aims to represent the observations with a small number of variables by exploiting the underlying structure.
 
-<p align="center">![alt text](img/portfolio/tensors.png "Tensors used in classification")</p>
+![alt text](img/portfolio/tensors.png "Tensors used in classification")
 
 The ever-increasing volume of data demands algorithms that can deal with the curse of dimensionality, while the growing variety of data requires sophisticated approaches to datafusion, i.e. analysing several sources of data at once.   Also solutions for missing data (or discarding data of insufficient quality) can be designed in the tensor framework. We demonstrated in the past that the development of tensor tools is useful for very different applications in medical engineering, e.g. in neonatal monitoring, epilepsy monitoring, classification of single-trial brain responses, etc.
