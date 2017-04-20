@@ -26,6 +26,10 @@ body {
     color: #fed136;
 }
 
+.text-justify {
+  text-align: justify;
+}
+
 p {
     font-size: 14px;
     line-height: 1.75;
@@ -357,7 +361,7 @@ section h3.section-subheading {
     }
 }
 
-.service-heading {
+.description-heading {
     margin: 15px 0;
     text-transform: none;
 }
@@ -786,7 +790,8 @@ ul.social-buttons li a:active {
     min-height: 100%;
     border: 0;
     border-radius: 0;
-    text-align: center;
+    text-align: justify;
+    text-indent: 2em;
     background-clip: border-box;
     -webkit-box-shadow: none;
     box-shadow: none;

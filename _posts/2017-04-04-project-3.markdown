@@ -1,0 +1,15 @@
+---
+title: Digital technologies in Mental Health Monitoring
+subtitle: (e.g. ...)
+layout: default
+modal-id: 3
+img: circadian.jpeg
+thumbnail: circadian.jpeg
+alt: image-alt
+members: John , Oliver Carr
+collaborators: Prof. Test
+partners: Roche
+category: Mental Health
+---
+
+Some description in plain text

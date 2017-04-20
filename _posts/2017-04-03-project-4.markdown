@@ -1,0 +1,15 @@
+---
+title: Digital technologies in Neurological Disorders
+subtitle: (e.g. Parkinson's patients)
+layout: default
+modal-id: 4
+img: neurodisorders.jpeg
+thumbnail: neurodisorders.jpeg
+alt: image-alt
+members: Andrew
+collaborators: Prof. Test
+partners: Roche
+category: Neurological Disorders
+---
+
+Some description in plain text
