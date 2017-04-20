@@ -31,14 +31,14 @@ people:
   social:
     - title: external-link
       url: http://fernando.planetarium.com.br/
-    - title: google
+    - title: ai-google-scholar-square
       url: https://scholar.google.com/citations?user=rajtyxUAAAAJ&hl=en
-    - title: envelope
+    - title: <i class="ai ai-google-scholar-square ai-3x"></i>
       url: mailto:fernando.andreotti@eng.ox.ac.uk
 
 - name: Kaare Mikkelsen
   pic: placeholder
-  position: Visiting Postdoctoral Researcher
+  position: Postdoctoral Researcher
   social:
     - title: google
       url: https://scholar.google.co.uk/citations?user=DL5CvZoAAAAJ&hl=en&oi=ao
@@ -87,6 +87,20 @@ people:
     - title: envelope
       url: mailto:andrew.creagh@eng.ox.ac.uk
 
+- name: Gabrielle Cretot-Richert
+  pic: placeholder
+  position: Visiting PhD Student
+  social:
+    - title: envelope
+      url: mailto:gabrielle.cretot-richert@etsmtl.ca
+
+- name: Stefan
+  pic: placeholder
+  position: DPhil Student
+  social:
+    - title: envelope
+      url: mailto:stefan
+
 # Social networks usernames (many more available: envelope, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
@@ -101,11 +115,7 @@ social:
 #   url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
-address:
-  - line: University of Oxford
-  - line: Old Road Campus Research Building,
-  - line: Oxford - OX3 7DQ
-  - line: United Kingdom
+address: University of Oxford <br> Old Road Campus Research Building <br> OX3 7DQ - Oxford <br> United Kingdom
 
 # Build settings
 markdown: kramdown
