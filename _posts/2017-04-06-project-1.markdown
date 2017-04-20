@@ -3,8 +3,8 @@ title: Wearable monitoring
 subtitle: (brain and heart)
 layout: default
 modal-id: 1
-img: heartbeat
-thumbnail: wearable_monit-thumbnail.png
+img: wearable
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
 members: Navin Cooray, Kaare Mikkelsen
 collaborators: Stefan Debener
