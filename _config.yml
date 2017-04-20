@@ -21,19 +21,14 @@ people:
 - name: Niclas Palmius
   pic: placeholder
   position: Postdoctoral Researcher
-  social:
-    - title: envelope
-      url: mailto:niclas.palmius@eng.ox.ac.uk
 
 - name: Fernando Andreotti
   pic: fernando
   position: Postdoctoral Researcher
   social:
-    - title: external-link
-      url: http://fernando.planetarium.com.br/
-    - title: ai-google-scholar-square
+    - title: google
       url: https://scholar.google.com/citations?user=rajtyxUAAAAJ&hl=en
-    - title: <i class="ai ai-google-scholar-square ai-3x"></i>
+    - title: envelope
       url: mailto:fernando.andreotti@eng.ox.ac.uk
 
 - name: Kaare Mikkelsen
@@ -42,64 +37,57 @@ people:
   social:
     - title: google
       url: https://scholar.google.co.uk/citations?user=DL5CvZoAAAAJ&hl=en&oi=ao
-    - title: envelope
-      url: mailto:mikkelsen.kaare@gmail.com
 
 - name: Elina Naydenova
   pic: placeholder
   position:  DPhil Student
-  social:
-    - title: envelope
-      url: mailto:elina.naydenova@univ.ox.ac.uk
+#  social:
+#    - title: envelope
+#      url: mailto:elina.naydenova@univ.ox.ac.uk
 
 - name: John Prince
   pic: placeholder
   position: DPhil Student
-  social:
-    - title: envelope
-      url: mailto:john.prince@eng.ox.ac.uk
+#  social:
+#    - title: envelope
+#      url: mailto:john.prince@eng.ox.ac.uk
 
 - name: Kirubin Pillay
   pic: placeholder
   position: DPhil Student
-  social:
-    - title: envelope
-      url: mailto:kirubin.pillay@stcatz.ox.ac.uk
+#  social:
+#    - title: envelope
+#      url: mailto:kirubin.pillay@stcatz.ox.ac.uk
 
 - name: Navin Cooray
   pic: placeholder
   position: DPhil Student
-  social:
-    - title: envelope
-      url: mailto:navin.cooray@eng.ox.ac.uk
+#  social:
+#    - title: envelope
+#      url: mailto:navin.cooray@eng.ox.ac.uk
 
 - name: Oliver Carr
   pic: placeholder
   position: DPhil Student
-  social:
-    - title: envelope
-      url: mailto:oliver.carr@eng.ox.ac.uk
+#  social:
+#    - title: envelope
+#      url: mailto:oliver.carr@eng.ox.ac.uk
 
 - name: Andrew Creagh
   pic: placeholder
   position: DPhil Student
-  social:
-    - title: envelope
-      url: mailto:andrew.creagh@eng.ox.ac.uk
+#  social:
+#    - title: envelope
+#      url: mailto:andrew.creagh@eng.ox.ac.uk
 
 - name: Gabrielle Cretot-Richert
   pic: placeholder
   position: Visiting PhD Student
-  social:
-    - title: envelope
-      url: mailto:gabrielle.cretot-richert@etsmtl.ca
 
-- name: Stefan
+- name: Stefan Bostock
   pic: placeholder
   position: DPhil Student
-  social:
-    - title: envelope
-      url: mailto:stefan
+
 
 # Social networks usernames (many more available: envelope, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
