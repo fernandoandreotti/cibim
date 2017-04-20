@@ -3,8 +3,8 @@ title: Computational approaches for ...
 subtitle: (e.g. tensor decompositions)
 layout: default
 modal-id: 5
-img: computational.jpeg
-thumbnail: computational.jpeg
+img: tensors2.jpeg
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
 members: Maarten
 collaborators: Prof. Test

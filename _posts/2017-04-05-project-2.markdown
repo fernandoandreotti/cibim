@@ -3,8 +3,8 @@ title: Sleep and Circadian monitoring
 subtitle: (sleep)
 layout: default
 modal-id: 2
-img: circadian.jpeg
-thumbnail: circadian.jpeg
+img: roundicons-thumbnail.png
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
 members: Oliver Carr
 collaborators: Prof. Test
@@ -14,4 +14,6 @@ category: Mental Health
 
 Getting a good night’s sleep is vital to cognitive functioning, protecting mental health, physical health and quality of life. Sleep is also important for recovery after diseases like stroke. And yet, daytime sleepiness is common among stroke survivors, leading in one third of the patients to a chronic problem. The science of sleep emerges as a critical clinical discipline and the goals of the recently established Sleep and Circadian Neuroscience Institute (SCNi) are to advance our understanding of how sleep and circadian rhythm disruption impacts health.
 
-Sleeping disorders are currently diagnosed using polysomnography, which monitors different physiological signals overnight such as the heart rate, respiration, EEG, and eye movement.   Although polysomnography is important as diagnostic tool in sleep medicine, the high costs and low comfort cause the sleep-related disorders (e.g. obstructive sleep apnea, sleep-wake cycle disorders, ...) to be under-diagnosed.  Our goal is to develop new signal and video processing routines that allow quantifying in a user-friendly and accurate way mental health and sleep anomalies.
+Sleeping disorders are currently diagnosed using polysomnography, which monitors different physiological signals overnight such as the heart rate, respiration, EEG, and eye movement. 
+
+Although polysomnography is important as diagnostic tool in sleep medicine, the high costs and low comfort cause the sleep-related disorders (e.g. obstructive sleep apnea, sleep-wake cycle disorders, ...) to be under-diagnosed.  Our goal is to develop new signal and video processing routines that allow quantifying in a user-friendly and accurate way mental health and sleep anomalies.

@@ -3,8 +3,8 @@ title: Global health
 subtitle: (affordable health)
 layout: default
 modal-id: 6
-img: global_health.jpeg
-thumbnail: global_health.jpeg
+img: roundicons-thumbnail.png
+thumbnail: roundicons-thumbnail.png
 alt: image-alt
 members: Elina
 collaborators: Prof. Test
