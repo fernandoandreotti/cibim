@@ -1,5 +1,5 @@
 ---
-title: Computational approaches for ...
+title: Computational approaches
 subtitle: (e.g. tensor decompositions)
 layout: default
 modal-id: 5
