@@ -6,8 +6,8 @@ modal-id: 2
 img: roundicons-thumbnail.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-members: Oli
-collaborators: Prof. Test
+members: Kirubin, Oli
+collaborators: Prof. Test, Leuven
 partners: Sleep and Circadian Neuroscience Institute (SCNi)
 category: Mental Health
 ---
