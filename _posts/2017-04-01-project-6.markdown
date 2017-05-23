@@ -1,5 +1,5 @@
 ---
-title: Global health
+title: Global Health
 subtitle: (affordable health)
 layout: default
 modal-id: 6
