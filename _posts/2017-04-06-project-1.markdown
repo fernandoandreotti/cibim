@@ -6,9 +6,9 @@ modal-id: 1
 img: wearable_monit.jpeg
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-members: Navin Cooray, Kaare Mikkelsen
-collaborators: Stefan Debener
-partners: cEEGrid
+members: Navin, Oli
+collaborators: Stefan Debener, ...
+partners: mBrainTrain,...
 category: Wearable
 ---
 
