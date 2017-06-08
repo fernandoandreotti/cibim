@@ -1,5 +1,5 @@
 ---
-title: Digital technologies in Neurological Disorders
+title: Digital technologies for Neurological Disorders
 subtitle: (e.g. Parkinson's patients)
 layout: default
 modal-id: 4
