@@ -196,6 +196,10 @@ fieldset[disabled] .btn-xl.active {
     color: #fec503;
 }
 
+.navbar-nav.navbar-right:last-child {
+    margin-right: 0;
+}
+
 .navbar-default .navbar-collapse {
     border-color: rgba(255,255,255,.02);
 }
