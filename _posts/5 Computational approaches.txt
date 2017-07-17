@@ -1,21 +1,19 @@
 ---
 title: Computational approaches
-subtitle: (e.g. tensor decompositions)
+subtitle: (e.g. tensor decompositions, deep learning, individualised machine learning)
 layout: default
 modal-id: 5
 img: tensors2.jpeg
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-members: Maarten
-collaborators: Prof. Test
+members: Niclas Palmius, Fernando Andreotti, Huy Phan
+collaborators: Prof. Lieven De Lathauwer (KU Leuven, Belgium), Dr. Thanasis Tsanas (Edinburg, UK)
 partners: Some University
 category: Algorithms
 ---
 
-In our information era, the amount of data one has access to is tremendously increasing in quantity and variety.  Problems in computational neuroscience, neuroinformatics, pattern recognition, signal processing and machine learning give rise to massive amounts of multidimensional and multimodal data with intrinsic high dimensionality.  This data is worth nothing by itself. The true value lies in the information that is potentially contained in the data. Data has to be mined for extracting knowledge and understanding its underlying processes.
+In our information era, the amount of data one has access to nowadays has tremendously increased in quantity and variety.  Problems in computational neuroscience, neuroinformatics, pattern recognition, signal processing, and machine learning give rise to massive amounts of multidimensional and multimodal data with intrinsic high dimensionality.  This data is worth nothing by itself. The true value lies in the information that is potentially contained in the data. Data has to be mined in order to understand its underlying processes.
 
-Crucial for data mining is the format in which the data is represented.  Arrays with two or more dimensions, which we call matrices and tensors, serve as the computer representation of many types of data. Tensors provide often a natural and compact representation for such massive multidimensional data often available in long-term biomedical monitoring applications. In order to tackle big data analytics, we develop and optimise novel tools that efficiently process huge datasets. This approach to multidimensional big data is often called multiway analysis, which aims to represent the observations with a small number of variables by exploiting the underlying structure.
+In order to tackle big data analytics, we develop and optimise tools that efficiently process huge datasets. This can be done through smart designs of deep neural networks or by representing multidimensional data as tensors and extract underlying structure with tensor decompositions. These techniques enable state of the art pattern identification (e.g. gait in identifying Parkinson's patients), solve regression problems  (e.g. estimating blood pressure non-invasively from PPG signals), and classification (e.g. sleep staging).
 
 ![alt text](img/portfolio/tensors.png "Tensors used in classification")
-
-The ever-increasing volume of data demands algorithms that can deal with the curse of dimensionality, while the growing variety of data requires sophisticated approaches to datafusion, i.e. analysing several sources of data at once.   Also solutions for missing data (or discarding data of insufficient quality) can be designed in the tensor framework. We demonstrated in the past that the development of tensor tools is useful for very different applications in medical engineering, e.g. in neonatal monitoring, epilepsy monitoring, classification of single-trial brain responses, etc.
