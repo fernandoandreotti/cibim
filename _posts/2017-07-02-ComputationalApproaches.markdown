@@ -4,11 +4,11 @@ subtitle: (e.g. tensor decompositions, deep learning, individualised machine lea
 layout: default
 modal-id: 5
 img: tensors2.jpeg
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
+thumbnail: comput-thumb.png
+alt: Image Not Found
 members: Niclas Palmius, Fernando Andreotti, Huy Phan
-collaborators: Prof. Lieven De Lathauwer (KU Leuven, Belgium), Dr. Thanasis Tsanas (Edinburg, UK)
-partners: Some University
+collaborators: Prof. Lieven De Lathauwer (KU Leuven, Belgium), Dr. Thanasis Tsanas (Edinburgh, UK)
+partners: KU Leuven, University of Edinburgh
 category: Algorithms
 ---
 
@@ -16,4 +16,4 @@ In our information era, the amount of data one has access to nowadays has tremen
 
 In order to tackle big data analytics, we develop and optimise tools that efficiently process huge datasets. This can be done through smart designs of deep neural networks or by representing multidimensional data as tensors and extract underlying structure with tensor decompositions. These techniques enable state of the art pattern identification (e.g. gait in identifying Parkinson's patients), solve regression problems  (e.g. estimating blood pressure non-invasively from PPG signals), and classification (e.g. sleep staging).
 
-![alt text](img/portfolio/tensors.png "Tensors used in classification")
+![Image not found](img/portfolio/tensors.png "Tensors used in classification")

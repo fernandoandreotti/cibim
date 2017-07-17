@@ -5,7 +5,7 @@ layout: default
 modal-id: 2
 img: roundicons-thumbnail.png
 thumbnail: roundicons-thumbnail.png 
-alt: image-alt
+alt: Image Not Found
 members: Kirubin Pillay, Oliver Carr, Kaare Mikkelsen, Dr. Juana Lamote de Grignon Perez
 collaborators: Prof. Russell Foster, Prof. Vlad Vyazovskyi, Prof. Sabine Van Huffel (KU Leuven, Belgium), Prof. Gunnar Naulaers (University Hospitals Leuven, Belgium)
 partners: Sleep and Circadian Neuroscience Institute (SCNi), Circadian Therapeutics
@@ -15,7 +15,6 @@ category: Mental Health
 Getting a good night’s sleep is vital to cognitive functioning, protecting mental health, physical health and quality of life. Sleep is also important for recovery after diseases like stroke. Further, changes in sleep can be indicators of more severe changes to health, both mental and physical. 
 The science of sleep has recently emerged as a critical clinical discipline and the goals of the recently established Sleep and Circadian Neuroscience Institute (SCNi) are to advance our understanding of how sleep and circadian rhythm disruption impacts health. 
 
-![alt text](img/portfolio/CeeGRID.jpg "The cEEGrid electrode array")
 
 Sleeping disorders are currently monitored and diagnosed using polysomnography, which records different physiological signals overnight such as the heart rate, respiration, EEG, and eye movement. 
 

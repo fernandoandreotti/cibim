@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 img: roundicons-thumbnail.png
 thumbnail: roundicons-thumbnail.png
-alt: image-alt
+alt: Image Not Found
 members: John Prince, Andrew Creagh, Stefan Bostock, Navin Cooray, Christine Lo
 collaborators: Prof. Mkael Symmonds, Prof. Arjune Sen, Prof. Michele Hu, Prof. Chrystallina Antoniades, Prof. James Fitzgerald, Dr Tom Barber, Dr Thanasis Tsanas
 partners: Hoffman-La Roche

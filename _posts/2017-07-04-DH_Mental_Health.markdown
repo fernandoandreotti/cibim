@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 img: roundicons-thumbnail.png
 thumbnail: roundicons-thumbnail.png
-alt: image-alt
+alt: Image Not Found
 members: John Prince, Niclas Palmius, Oliver Carr, Nick Meyers
 collaborators: Prof. Guy Goodwin, Prof. John Geddes, Dr. Kate Saunders
 partners: Psychiatry Department Oxford, Kings College London
@@ -16,5 +16,5 @@ The AMoSS study ('Automated Monitoring of Symptom Severity') is the largest rese
 We have developed a new method for extracting diurnal rhythm disturbance in bipolar disorder, borderline personality disorder and healthy volunteers. We have found internal dissynchrony of diurnal rhythms of activity, sleep and heart rate between the groups and found strong associations between increased diurnal rhythm variability and increased mood variability. These results have the potential of improving monitoring of mood in bipolar disorder through objective measures and tracking mood deterioration.
 In addition to diurnal disturbances in psychiatric disorders, alterations to heart rate variability have been widely reported in these disorders. We collected ambulatory ECG recordings, from one to three days in length, using mobile devices on participants in their daily lives. We are investigating differences in a range of heart rate variability measures between groups and their associations with mood or affect state in order to improve mood monitoring in mental health.
 
-[Figure caption]
+![Image Not Found](img/portfolio/CeeGRID.jpg "The cEEGrid electrode array")
 Recordings of acceleration and heart rate signals over four days to illustrate their diurnal rhythms. (a) Total acceleration recording, a measure of activity. (b) Integrated total acceleration to emphasise the diurnal pattern. (c) Vertical acceleration recording, a measure of sleep of lying down. (d) Integrated vertical acceleration. (e) Heart rate recording, with sinusoids fit to the entire signal (black) and to each 24 hour period (red). (f) Comparison of the sinusoids in (e), with diurnal regularity determine through differences in average ①, phase ② and amplitude ③.
