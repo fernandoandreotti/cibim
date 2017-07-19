@@ -280,15 +280,17 @@ fieldset[disabled] .btn-xl.active {
 
 header {
     text-align: center;
-    color: #000;
+    background-color: #000;
     background-attachment: scroll;
     background-image: url('/cibim//img/header-bg.jpg');
     background-position: center center;
-    background-repeat: none;
+    background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background-size:30% auto;
+    padding-top: 5%;
 }
 
 header .intro-text {

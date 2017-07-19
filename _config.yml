@@ -21,6 +21,9 @@ people:
 - name: Niclas Palmius
   pic: niclas
   position: Postdoctoral Researcher
+  social:
+     - title: envelope
+       url: mailto:placeholder
 
 - name: Fernando Andreotti
   pic: fernando
@@ -31,48 +34,90 @@ people:
     - title: envelope
       url: mailto:fernando.andreotti@eng.ox.ac.uk
 
+- name: Huy Phan
+  pic: placeholder
+  position: Postdoctoral Researcher
+  social:
+     - title: envelope
+       url: mailto:placeholder
+
+
+- name: Elina Naydenova
+  pic: elina
+  position:  DPhil Student
+  social:
+     - title: envelope
+       url: mailto:placeholder
+
+
+- name: John Prince
+  pic: john
+  position: DPhil Student
+  social:
+     - title: envelope
+       url: mailto:placeholder
+
+- name: Kirubin Pillay
+  pic: kirubin
+  position: DPhil Student
+  social:
+     - title: envelope
+       url: mailto:placeholder
+
+- name: Navin Cooray
+  pic: navin
+  position: DPhil Student
+  social:
+    - title: envelope
+      url: mailto:navin.cooray@eng.ox.ac.uk
+    - title: linkedin
+      url: https://www.linkedin.com/in/navincooray
+
+- name: Oliver Carr
+  pic: oliver
+  position: DPhil Student
+  social:
+     - title: envelope
+       url: mailto:placeholder
+
+- name: Andrew Creagh
+  pic: andrew
+  position: DPhil Student
+  social:
+    - title: envelope
+      url: mailto:andrew.creagh@eng.ox.ac.uk
+    - title: linkedin
+      url: https://www.linkedin.com/in/andrewcreagh
+    - title: twitter
+      url: https://twitter.com/creagha
+
+- name: Stefan Bostock
+  pic: stefan
+  position: DPhil Student
+  social:
+     - title: envelope
+       url: mailto:placeholder
+
+- name: Maximilian Strobl
+  pic: maximilian
+  position: DPhil Student
+  social:
+     - title: envelope
+       url: mailto:placeholder
+
+- name: Gabrielle Cretot-Richert
+  pic: gabrielle
+  position: Visiting PhD Student
+  social:
+     - title: envelope
+       url: mailto:placeholder
+
 - name: Kaare Mikkelsen
   pic: kaare
   position: Postdoctoral Researcher
   social:
     - title: google
       url: https://scholar.google.co.uk/citations?user=DL5CvZoAAAAJ&hl=en&oi=ao
-
-- name: Elina Naydenova
-  pic: elina
-  position:  DPhil Student
-
-- name: John Prince
-  pic: john
-  position: DPhil Student
-
-- name: Kirubin Pillay
-  pic: kirubin
-  position: DPhil Student
-
-- name: Navin Cooray
-  pic: navin
-  position: DPhil Student
-
-- name: Oliver Carr
-  pic: oliver
-  position: DPhil Student
-
-- name: Andrew Creagh
-  pic: andrew
-  position: DPhil Student
-
-- name: Gabrielle Cretot-Richert
-  pic: gabrielle
-  position: Visiting PhD Student
-
-- name: Stefan Bostock
-  pic: stefan
-  position: DPhil Student
-
-- name: Maximilian Strobl
-  pic: maximilian
-  position: DPhil Student
 
 
 # Social networks usernames (many more available: envelope, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
