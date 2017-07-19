@@ -10,6 +10,11 @@ body {
     color: #{{ site.data.template.color.secondary-dark }};
 }
 
+.row {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
 .text-muted {
     color: #{{ site.data.template.color.muted }};
 }

@@ -18,6 +18,11 @@ body {
     color: #333;
 }
 
+.row {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+
 .text-muted {
     color: #777;
 }
