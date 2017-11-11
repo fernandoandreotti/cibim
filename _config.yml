@@ -32,7 +32,7 @@ people:
     - title: envelope
       url: mailto:fernando.andreotti@eng.ox.ac.uk
     - title: linkedin
-       url: https://www.linkedin.com/in/fernandoandreotti/
+      url: https://www.linkedin.com/in/fernandoandreotti/
     - title: google
       url: https://scholar.google.com/citations?user=rajtyxUAAAAJ&hl=en    
 
@@ -40,20 +40,20 @@ people:
   pic: huy
   position: Postdoctoral Researcher
   social:
-     - title: envelope
-       url: mailto: huy.phan@eng.ox.ac.uk
-     - title: linkedin
-       url: http://www.linkedin.com/in/pquochuy
-     - title: google
-       url: https://scholar.google.com/citations?user=RegoACcAAAAJ&hl=en
+    - title: envelope
+      url: mailto:huy.phan@eng.ox.ac.uk
+    - title: linkedin
+      url: https://www.linkedin.com/in/pquochuy/
+    - title: google
+      url: https://scholar.google.com/citations?user=RegoACcAAAAJ&hl=en
 
 - name: Jorne Laton
   pic: placeholder
   position: Postdoctoral Researcher
   social:
-     - title: envelope
-       url: mailto: someemail@eng.ox.ac.uk     
-
+    - title: envelope
+      url: mailto:someone@eng.ox.ac.uk
+          
 - name: Elina Naydenova
   pic: elina
   position:  DPhil Student
