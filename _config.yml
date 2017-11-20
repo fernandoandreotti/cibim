@@ -51,36 +51,29 @@ people:
   pic: jorne
   position: Postdoctoral Researcher
   social:
-<<<<<<< HEAD
     - title: envelope
-      url: mailto:someone@eng.ox.ac.uk
-          
-=======
-     - title: envelope
-       url: mailto: jorne.laton@eng.ox.ac.uk     
-
->>>>>>> 2e268735a3ef66bb6154cce58d2b29cb7aa06383
+      url: mailto:jorne.laton@eng.ox.ac.uk     
+       
 - name: Elina Naydenova
   pic: elina
   position:  DPhil Student
   social:
-     - title: envelope
-       url: mailto:placeholder
-
+    - title: envelope
+      url: mailto:placeholder
 
 - name: John Prince
   pic: john
   position: DPhil Student
   social:
-     - title: envelope
-       url: mailto:placeholder
+    - title: envelope
+      url: mailto:placeholder
 
 - name: Kirubin Pillay
   pic: kirubin
   position: DPhil Student
   social:
-     - title: envelope
-       url: mailto:placeholder
+    - title: envelope
+      url: mailto:placeholder
 
 - name: Navin Cooray
   pic: navin
@@ -95,8 +88,8 @@ people:
   pic: oliver
   position: DPhil Student
   social:
-     - title: envelope
-       url: mailto:placeholder
+    - title: envelope
+      url: mailto:placeholder
 
 - name: Andrew Creagh
   pic: andrew
@@ -113,22 +106,22 @@ people:
   pic: stefan
   position: DPhil Student
   social:
-     - title: envelope
-       url: mailto:placeholder
+    - title: envelope
+      url: mailto:placeholder
 
 - name: Maximilian Strobl
   pic: maximilian
   position: DPhil Student
   social:
-     - title: envelope
-       url: mailto:placeholder
+    - title: envelope
+      url: mailto:placeholder
 
 - name: Gabrielle Cretot-Richert
   pic: gabrielle
   position: Visiting PhD Student
   social:
-     - title: envelope
-       url: mailto:placeholder
+    - title: envelope
+      url: mailto:placeholder
 
 - name: Kaare Mikkelsen
   pic: kaare
@@ -137,19 +130,19 @@ people:
     - title: google
       url: https://scholar.google.co.uk/citations?user=DL5CvZoAAAAJ&hl=en&oi=ao
       
- - name: Awais M. Kamboh
+- name: Awais M. Kamboh
   pic: awais
   position: Visiting Professor
   social:
-     - title: fa-link
-       url: mailto: http://seecs.nust.edu.pk/faculty/amkamboh.html
-     - title: google
-       url: https://scholar.google.co.uk/citations?user=G-cEFxIAAAAJ&hl=en
+    - title: link
+      url: http://seecs.nust.edu.pk/faculty/amkamboh.html
+    - title: google
+      url: https://scholar.google.co.uk/citations?user=G-cEFxIAAAAJ&hl=en
 
 # Social networks usernames (many more available: envelope, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/CIBIM_lab
+#   social:
+#   - title: twitter
+#   url: http://twitter.com/CIBIM_lab
 #  - title: facebook
 #    url:
 # - title: stack-overflow
