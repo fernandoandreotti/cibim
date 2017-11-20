@@ -48,12 +48,18 @@ people:
       url: https://scholar.google.com/citations?user=RegoACcAAAAJ&hl=en
 
 - name: Jorne Laton
-  pic: placeholder
+  pic: jorne
   position: Postdoctoral Researcher
   social:
+<<<<<<< HEAD
     - title: envelope
       url: mailto:someone@eng.ox.ac.uk
           
+=======
+     - title: envelope
+       url: mailto: jorne.laton@eng.ox.ac.uk     
+
+>>>>>>> 2e268735a3ef66bb6154cce58d2b29cb7aa06383
 - name: Elina Naydenova
   pic: elina
   position:  DPhil Student
@@ -126,11 +132,19 @@ people:
 
 - name: Kaare Mikkelsen
   pic: kaare
-  position: Postdoctoral Researcher
+  position: Visiting Postdoc
   social:
     - title: google
       url: https://scholar.google.co.uk/citations?user=DL5CvZoAAAAJ&hl=en&oi=ao
-
+      
+ - name: Awais M. Kamboh
+  pic: awais
+  position: Visiting Professor
+  social:
+     - title: fa-link
+       url: mailto: http://seecs.nust.edu.pk/faculty/amkamboh.html
+     - title: google
+       url: https://scholar.google.co.uk/citations?user=G-cEFxIAAAAJ&hl=en
 
 # Social networks usernames (many more available: envelope, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
