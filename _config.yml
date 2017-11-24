@@ -109,36 +109,33 @@ people:
     - title: envelope
       url: mailto:placeholder
 
+      
+formerpeople:
 - name: Maximilian Strobl
   pic: maximilian
   position: DPhil Student
-  social:
-    - title: envelope
-      url: mailto:placeholder
+
 
 - name: Gabrielle Cretot-Richert
   pic: gabrielle
   position: Visiting PhD Student
-  social:
-    - title: envelope
-      url: mailto:placeholder
+
 
 - name: Kaare Mikkelsen
   pic: kaare
   position: Visiting Postdoc
-  social:
-    - title: google
-      url: https://scholar.google.co.uk/citations?user=DL5CvZoAAAAJ&hl=en&oi=ao
+
       
 - name: Awais M. Kamboh
   pic: awais
   position: Visiting Professor
-  social:
-    - title: link
-      url: http://seecs.nust.edu.pk/faculty/amkamboh.html
-    - title: google
-      url: https://scholar.google.co.uk/citations?user=G-cEFxIAAAAJ&hl=en
+  
+- name: Andre
 
+- name: Erin
+
+- name: Luba
+  
 # Social networks usernames (many more available: envelope, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 #   social:
 #   - title: twitter

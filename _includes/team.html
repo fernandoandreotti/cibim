@@ -22,7 +22,6 @@
                                 </a>
                             </li>
                             {% endfor %}
-
                         </ul>
                     </div>
                 </div>
@@ -31,66 +30,63 @@
             <hr>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">We also collaborate with several researchers throughout the world.</p>
-                </div>
-            </div>
-
-            <div class="container-fluid">
-              <div class="row marketing">
-                <div class="col-md-6"><h3>Collaborators:</h3>
-                  <div class="row">
+                 <h3>Collaborators:</h3>
                     <div class="col-md-4">
                         <li>Thanasis Tsanas</li>
-                    </div>
-                    <div class="col-md-4">
                         <li>Bogdan Mijovic</li>
-                    </div>
-                  </div>
+                    </div>                    
                 </div>
-                <div class="col-md-6"><h3>Alumni:</h3>
-                    <div class="col-md-4">
-                          <li>Some former guest</li>
-                    </div>
-                    <div class="col-md-4">
-                         <li>Andre</li>
-                         <li>Erin</li>
-                         <li>Luba</li>
-                    </div>
-                  </div>
-                </div>
-              </div><br><br>
-            <hr>
-            <br><br>
             </div>
-
+            <br><br>                      
+            <hr>
+            
             <div class="row">
-                <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <p class="large text-muted">and the following companies:</p>
-                </div>
+            <div class="col-lg-12 text-center">
+                    <h3 class="section-heading">Industrial Partners:</h3><br>            
             </div>
             <div class="container">
-                <div class="row">
-                    <div class="col-md-3 col-sm-6">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
                         <a href="https://www.roche.com/"  target="_blank">
                             <img src="img/logos/roche.png" class="img-responsive img-centered" alt="Hoffmann-La Roche AG">
                         </a>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
+                        </div>
+                        <div class="col-md-3 col-sm-6">
                         <a href="https://www.circadiantherapeutics.com/"  target="_blank">
                             <img src="img/logos/circadianthera.png" class="img-responsive img-centered" alt="Circadian Therapeutics">
                         </a>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <a href="https://mbraintrain.com/"  target="_blank">
-                            <img src="img/logos/mbraintrain.jpg" class="img-responsive img-centered" alt="mBrainTrain">
-                        </a>
-                    </div>
-                    <div class="col-md-3 col-sm-6">
-                        <a href="https://www.ndcn.ox.ac.uk/research/sleep-circadian-neuroscience-institute"  target="_blank">
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <a href="https://mbraintrain.com/"  target="_blank">
+                                <img src="img/logos/mbraintrain.jpg" class="img-responsive img-centered" alt="mBrainTrain">
+                            </a>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <a href="https://www.ndcn.ox.ac.uk/research/sleep-circadian-neuroscience-institute"  target="_blank">
                             <img src="img/logos/ekuore.png" class="img-responsive img-centered" alt="Ekuore">
-                        </a>
+                            </a>
+                        </div>
                     </div>
+                </div>                
+            </div>
+            <br><br>                      
+            <hr>
+            
+            <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3 class="section-heading">Former Members</h3><br>
                 </div>
             </div>
-
+            <div class="row">
+                {% for member in site.formerpeople %}
+                <div class="col-sm-3">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="" height="100" width="100">
+                        <h4>{{ member.name }}</h4>
+                        <p class="text-muted">{{ member.position }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
     </section>

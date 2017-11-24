@@ -3,14 +3,15 @@ title: Sleep and Circadian Monitoring
 subtitle: (neonatal brain maturation, sleep disorders and health degeneration)
 layout: default
 modal-id: 2
-img: roundicons-thumbnail.png
-thumbnail: roundicons-thumbnail.png 
+img: circadian.jpg
+thumbnail: circadian-thumb.jpg 
 alt: Image Not Found
 members: Kirubin Pillay, Oliver Carr, Kaare Mikkelsen, Dr. Juana Lamote de Grignon Perez
 collaborators: Prof. Russell Foster, Prof. Vlad Vyazovskyi, Prof. Sabine Van Huffel (KU Leuven, Belgium), Prof. Gunnar Naulaers (University Hospitals Leuven, Belgium)
 partners: Sleep and Circadian Neuroscience Institute (SCNi), Circadian Therapeutics
 category: Mental Health
 ---
+Fig. Diagram illustrating the influence of light on the circardian rhythm (photo By: Steve Thompson, AFMS Public Affairs)
 
 <p align="justify">Getting a good night’s sleep is vital to cognitive functioning, protecting mental health, physical health and quality of life. Sleep is also important for recovery after diseases like stroke. Further, changes in sleep can be indicators of more severe changes to health, both mental and physical. 
 The science of sleep has recently emerged as a critical clinical discipline and the goals of the recently established Sleep and Circadian Neuroscience Institute (SCNi) are to advance our understanding of how sleep and circadian rhythm disruption impacts health. </p>
