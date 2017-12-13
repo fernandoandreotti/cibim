@@ -38,7 +38,7 @@ Fig. Mood Zoom App developed as part of the AMoSS study
 <p align="justify">In addition to diurnal disturbances in psychiatric disorders, alterations to heart rate variability have been widely reported in these disorders. We collected ambulatory ECG recordings, from one to three days in length, using mobile devices on participants in their daily lives. We are investigating differences in a range of heart rate variability measures between groups and their associations with mood or affect state in order to improve mood monitoring in mental health.</p>
 
 <div>
-<center><img class="img-responsive" src="img/portfolio/OliverImage.png" alt="Image Not Found" style="width:35%">
+<center><img class="img-responsive" src="img/portfolio/OliverImage.png" alt="Image Not Found" style="width:100%">
 
 Fig. Recordings of acceleration and heart rate signals over four days to illustrate their diurnal rhythms. (a) Total acceleration recording, a measure of activity. (b) Integrated total acceleration to emphasise the diurnal pattern. (c) Vertical acceleration recording, a measure of sleep of lying down. (d) Integrated vertical acceleration. (e) Heart rate recording, with sinusoids fit to the entire signal (black) and to each 24 hour period (red). (f) Comparison of the sinusoids in (e), with diurnal regularity determine through differences in average ①, phase ② and amplitude ③.
 </center>
