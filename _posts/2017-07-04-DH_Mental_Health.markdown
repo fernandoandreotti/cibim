@@ -24,9 +24,7 @@ Fig. Image of geographic movements for subject
 </div><br>
 
 
-
-
-We have developed a new method for extracting diurnal rhythm disturbance in bipolar disorder, borderline personality disorder and healthy volunteers. We have found internal dissynchrony of diurnal rhythms of activity, sleep and heart rate between the groups and found strong associations between increased diurnal rhythm variability and increased mood variability. These results have the potential of improving monitoring of mood in bipolar disorder through objective measures and tracking mood deterioration.</p>
+<p align="justify">We have developed a new method for extracting diurnal rhythm disturbance in bipolar disorder, borderline personality disorder and healthy volunteers. We have found internal dissynchrony of diurnal rhythms of activity, sleep and heart rate between the groups and found strong associations between increased diurnal rhythm variability and increased mood variability. These results have the potential of improving monitoring of mood in bipolar disorder through objective measures and tracking mood deterioration.</p>
 
 <div>
 <center><img class="img-responsive" src="img/portfolio/moodzoom.jpeg" alt="Image Not Found" style="width:35%">
