@@ -14,10 +14,15 @@ category: Neurological Disorders
 
 <p align="justify">Our research focuses on the use of Smart Technology and Wearable Sensors for the monitoring of motor disorder severity and disease progression in patients with Neurodegenerative diseases. Neurodegenerative disorders such as Parkinson’s Disease (PD), Multiple Sclerosis (MS) and Huntington’s Disease (HD) affect millions of people worldwide. These diseases, to name a few, can be characterized by an impaired motor function and exacerbated motor symptoms. Current methods to measure disease progression are resource-intensive, coarse-grained and rater-dependent. As such, developing an objective, easy to administer marker for these diseases are becoming invaluable both in clinical trials and for patients.</p>
 
-
-![Image Not Found](img/portfolio/Gait_example.png "Example of gait signal extracted from a Smartphone")
+<div>
+<center><img class="img-responsive" src="img/portfolio/Gait_example.png" alt="Image Not Found" style="width:100%">
 
 Fig. Example of gait signal extracted from a Smartphone
+</center>
+</div><br>
+
+
+
 
 <p align="justify">Emerging technology such as wearable sensors enable the collection of highly dimensional, high volume, longitudinal data. More recently sensor-based objective, and easy to-use systems for quantifying disease symptoms for large numbers of participants longitudinally have been proposed. Wearables – such as smartphones and smartwatches - offer a unique window into a patient’s habitual disease state; offering the ability to both actively monitor a patient’s disease symptoms during a routine of active tests but also to passively monitor a patient over sustained periods in an unobtrusive way. </p>
 
