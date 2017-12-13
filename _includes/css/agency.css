@@ -286,12 +286,12 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    background-size:30% auto;
+    background-size:25% auto;
     padding-top: 5%;
 }
 
 header .intro-text {
-    padding-top: 50px;
+    padding-top: 15px;
     padding-bottom: 10px;
 }
 
