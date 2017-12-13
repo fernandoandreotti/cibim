@@ -3,8 +3,8 @@ title: Digital technologies for Neurological Disorders
 subtitle: (Parkinson's and RBD patients)
 layout: default
 modal-id: 4
-img: roundicons-thumbnail.png
-thumbnail: roundicons-thumbnail.png
+img: dhneuro.jpg
+thumbnail: dhneuro-thumb.jpg
 alt: Image Not Found
 members: John Prince, Andrew Creagh, Stefan Bostock, Navin Cooray, Christine Lo
 collaborators: Prof. Mkael Symmonds, Prof. Arjune Sen, Prof. Michele Hu, Prof. Chrystallina Antoniades, Prof. James Fitzgerald (Nuffield Department of Clinical Neurosciences, University of Oxford, UK), Dr Tom Barber (University of Warwick, UK), Dr Thanasis Tsanas (University of Edinburgh, UK)
