@@ -1,5 +1,5 @@
-url: https://cibim.eng.ox.ac.uk/
-baseurl: /cibim/
+url: https://cibim.eng.ox.ac.uk
+baseurl:
 
 # Site settings
 title: CIBIM Lab
