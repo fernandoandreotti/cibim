@@ -1,4 +1,4 @@
-url: https://fernandoandreotti.github.io
+url: https://cibim.eng.ox.ac.uk/
 baseurl: /cibim/
 
 # Site settings
@@ -104,6 +104,13 @@ people:
 
 - name: Stefan Bostock
   pic: stefan
+  position: DPhil Student
+  social:
+    - title: envelope
+      url: mailto:placeholder
+      
+- name: Oliver Y. Chen
+  pic: placeholder
   position: DPhil Student
   social:
     - title: envelope

@@ -294,17 +294,17 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    background-size:30% auto;
-    padding-top: 5%;
+    background-size:25% auto;
+    padding-top: 0%;
 }
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 15px;
+    padding-bottom: 0px;
 }
 
 header .intro-text .intro-lead-in {
-    margin-bottom: 25px;
+    margin-bottom: 0px;
     font-family: "Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: italic;
@@ -395,7 +395,7 @@ section h3.section-subheading {
     -moz-transition: all ease .5s;
     transition: all ease .5s;
     background: rgba(254,209,54,.9); /* Fallback when no plugin support */
-    background: rgba(fed136, .9);
+    background: rgba(254,209,54, .9);
 }
 
 #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
