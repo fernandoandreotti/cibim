@@ -115,6 +115,13 @@ people:
   social:
     - title: envelope
       url: mailto:placeholder
+      
+- name: Erin Coonahan
+  pic: placeholder
+  position: DPhil Student
+  social:
+    - title: envelope
+      url: mailto:placeholder      
 
       
 formerpeople:
@@ -138,8 +145,6 @@ formerpeople:
   position: Visiting Professor
   
 - name: Andre
-
-- name: Erin
 
 - name: Luba
   
