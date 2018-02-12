@@ -114,15 +114,14 @@ people:
   position: DPhil Student
   social:
     - title: envelope
-      url: mailto:placeholder
+      url: mailto:yibin.chen@seh.ox.ac.uk
       
 - name: Erin Coonahan
-  pic: placeholder
+  pic: erin
   position: DPhil Student
   social:
     - title: envelope
-      url: mailto:placeholder      
-
+      url: mailto:erin.coonahan@linacre.ox.ac.uk
       
 formerpeople:
 - name: Maximilian Strobl
