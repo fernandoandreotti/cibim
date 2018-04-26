@@ -52,8 +52,17 @@ people:
   position: Postdoctoral Researcher
   social:
     - title: envelope
-      url: mailto:jorne.laton@eng.ox.ac.uk     
-       
+      url: mailto:jorne.laton@eng.ox.ac.uk
+      
+- name: Suzanne Ftouni
+  pic: suzanne
+  position: Postdoctoral Researcher
+  social:
+    - title: envelope
+      url: mailto:suzanne.ftouni@ndcn.ox.ac.uk
+    - title: linkedin
+      url: https://www.linkedin.com/in/suzanne-ftouni-43a0984a/      
+      
 - name: Elina Naydenova
   pic: elina
   position:  DPhil Student
@@ -128,20 +137,21 @@ formerpeople:
   pic: maximilian
   position: DPhil Student
 
-
 - name: Gabrielle Cretot-Richert
   pic: gabrielle
   position: Visiting PhD Student
 
-
 - name: Kaare Mikkelsen
   pic: kaare
   position: Visiting Postdoc
-
-      
+     
 - name: Awais M. Kamboh
   pic: awais
   position: Visiting Professor
+  
+- name: Amir Hossein Ansari
+  pic: amir
+  position: Visiting PhD Student
   
 - name: Andre
 
