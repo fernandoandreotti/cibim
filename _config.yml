@@ -1,5 +1,7 @@
 url: https://cibim.eng.ox.ac.uk
 baseurl:
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-118303437-1"
 
 # Site settings
 title: CIBIM Lab
