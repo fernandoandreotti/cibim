@@ -21,35 +21,6 @@ people:
     - title: envelope
       url: maarten.devos@eng.ox.ac.uk
 
-- name: Niclas Palmius
-  pic: niclas
-  position: Postdoctoral Researcher
-  social:
-     - title: envelope
-       url: mailto:placeholder
-
-- name: Fernando Andreotti
-  pic: fernando
-  position: Postdoctoral Researcher
-  social:
-    - title: envelope
-      url: mailto:fernando.andreotti@eng.ox.ac.uk
-    - title: linkedin
-      url: https://www.linkedin.com/in/fernandoandreotti/
-    - title: google
-      url: https://scholar.google.com/citations?user=rajtyxUAAAAJ&hl=en    
-
-- name: Huy Phan
-  pic: huy
-  position: Postdoctoral Researcher
-  social:
-    - title: envelope
-      url: mailto:huy.phan@eng.ox.ac.uk
-    - title: linkedin
-      url: https://www.linkedin.com/in/pquochuy/
-    - title: google
-      url: https://scholar.google.com/citations?user=RegoACcAAAAJ&hl=en
-
 - name: Jorne Laton
   pic: jorne
   position: Postdoctoral Researcher
@@ -64,22 +35,8 @@ people:
     - title: envelope
       url: mailto:suzanne.ftouni@ndcn.ox.ac.uk
     - title: linkedin
-      url: https://www.linkedin.com/in/suzanne-ftouni-43a0984a/      
+      url: https://www.linkedin.com/in/suzanne-ftouni-43a0984a/
       
-- name: Elina Naydenova
-  pic: elina
-  position:  DPhil Student
-  social:
-    - title: envelope
-      url: mailto:placeholder
-
-- name: John Prince
-  pic: john
-  position: DPhil Student
-  social:
-    - title: envelope
-      url: mailto:placeholder
-
 - name: Kirubin Pillay
   pic: kirubin
   position: DPhil Student
@@ -128,6 +85,20 @@ people:
     - title: envelope
       url: mailto:yibin.chen@seh.ox.ac.uk
       
+- name: Guy Nagels
+  pic: placeholder
+  position: DPhil Student
+  social:
+    - title: envelope
+      url: mailto:guy.nagels@seh.ox.ac.uk
+      
+ - name: Christian Harding
+  pic: placeholder
+  position: DPhil Student
+  social:
+    - title: envelope
+      url: mailto:christian.harding@sjc.ox.ac.uk
+      
 - name: Erin Coonahan
   pic: erin
   position: DPhil Student
@@ -136,6 +107,27 @@ people:
       url: mailto:erin.coonahan@linacre.ox.ac.uk
       
 formerpeople:
+
+- name: Fernando Andreotti
+  pic: fernando
+  position: Postdoctoral Researcher
+
+- name: Huy Phan
+  pic: huy
+  position: Postdoctoral Researcher
+  
+- name: Niclas Palmius
+  pic: niclas
+  position: Postdoctoral Researcher
+  
+- name: Elina Naydenova
+  pic: elina
+  position:  DPhil Student
+  
+- name: John Prince
+  pic: john
+  position: DPhil Student
+ 
 - name: Maximilian Strobl
   pic: maximilian
   position: DPhil Student
