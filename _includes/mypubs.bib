@@ -1,4 +1,116 @@
+%% YEAR 2019 (FIXME)
+@article{Cooray2019,
+abstract = {Evidence suggests Rapid-Eye-Movement (REM) Sleep Behaviour Disorder (RBD) is an early predictor of Parkinson's disease. This study proposes a fully-automated framework for RBD detection consisting of automated sleep staging followed by RBD identification. Analysis was assessed using a limited polysomnography montage from 53 participants with RBD and 53 age-matched healthy controls. Sleep stage classification was achieved using a Random Forest (RF) classifier and 156 features extracted from electroencephalogram (EEG), electrooculogram (EOG) and electromyogram (EMG) channels. For RBD detection, a RF classifier was trained combining established techniques to quantify muscle atonia with additional features that incorporate sleep architecture and the EMG fractal exponent. Automated multi-state sleep staging achieved a 0.62 Cohen's Kappa score. RBD detection accuracy improved by 10{\%} to 96{\%} (compared to individual established metrics) when using manually annotated sleep staging. Accuracy remained high (92{\%}) when using automated sleep staging. This study outperforms established metrics and demonstrates that incorporating sleep architecture and sleep stage transitions can benefit RBD detection. This study also achieved automated sleep staging with a level of accuracy comparable to manual annotation. This study validates a tractable, fully-automated, and sensitive pipeline for RBD identification that could be translated to wearable take-home technology.},
+archivePrefix = {arXiv},
+arxivId = {1811.04662},
+author = {Cooray, Navin and Andreotti, Fernando and Lo, Christine and Symmonds, Mkael and Hu, Michele T. M. and {De Vos}, Maarten},
+eprint = {1811.04662},
+file = {:local/engs1314/Downloads/1811.04662.pdf:pdf},
+month = {nov},
+pages = {1--20},
+title = {{Detection of REM Sleep Behaviour Disorder by Automated Polysomnography Analysis}},
+url = {http://arxiv.org/abs/1811.04662},
+year = {2018}
+}
+
+
+@ARTICLE{Prince2019,
+author={J. Prince and F. Andreotti and M. De Vos},
+journal={IEEE Transactions on Biomedical Engineering},
+title={Multi-Source Ensemble Learning for the Remote Prediction of Parkinson's Disease in the Presence of Source-wise Missing Data},
+year={2018},
+volume={},
+number={},
+pages={1-1},
+keywords={Data models;Monitoring;Smart phones;Parkinson's disease;Biomarkers;Legged locomotion;Missing data;Parkinsons disease;multi-source learning;convolutional neural networks;ensemble learning;feature selection;bootstrap statistics;mobile-Health},
+doi={10.1109/TBME.2018.2873252},
+ISSN={0018-9294},
+month={},}
+
+@ARTICLE{Phan2019,
+author={H. Phan and F. Andreotti and N. Cooray and O. Y. Chen and M. De Vos},
+journal={IEEE Transactions on Biomedical Engineering},
+title={Joint Classification and Prediction CNN Framework for Automatic Sleep Stage Classification},
+year={2018},
+volume={},
+number={},
+pages={1-1},
+keywords={Sleep;Standards;Electroencephalography;Computational modeling;Task analysis;Electromyography;Electrooculography;sleep stage classification;joint classification and prediction;convolutional neural network;multi-task},
+doi={10.1109/TBME.2018.2872652},
+ISSN={0018-9294},
+month={},}
+
 %% YEAR 2018
+
+@article{Phan2018,
+abstract = {Automatic sleep staging has been often treated as a simple classification problem that aims at determining the label of individual target polysomnography (PSG) epochs one at a time. In this work, we tackle the task as a sequence-to-sequence classification problem that receives a sequence of multiple epochs as input and classifies all of their labels at once. For this purpose, we propose a hierarchical recurrent neural network named SeqSleepNet. The network epoch processing level consists of a filterbank layer tailored to learn frequency-domain filters for preprocessing and an attention-based recurrent layer designed for short-term sequential modelling. At the sequence processing level, a recurrent layer placed on top of the learned epoch-wise features for long-term modelling of sequential epochs. The classification is then carried out on the output vectors at every time step of the top recurrent layer to produce the sequence of output labels. Despite being hierarchical, we present a strategy to train the network in an end-to-end fashion. We show that the proposed network outperforms state-of-the-art approaches, achieving an overall accuracy, macro F1-score, and Cohen's kappa of 87.1{\%}, 83.3{\%}, and 0.815 on a publicly available dataset with 200 subjects.},
+archivePrefix = {arXiv},
+arxivId = {1809.10932},
+author = {Phan, Huy and Andreotti, Fernando and Cooray, Navin and Ch{\'{e}}n, Oliver Y. and {De Vos}, Maarten},
+doi = {arXiv:1809.10932v1},
+eprint = {1809.10932},
+month = {sep},
+pages = {1--11},
+title = {{SeqSleepNet: End-to-End Hierarchical Recurrent Neural Network for Sequence-to-Sequence Automatic Sleep Staging}},
+url = {http://arxiv.org/abs/1809.10932},
+year = {2018}
+}
+
+@article{Pillay2018,
+abstract = {Preterm newborns undergo various stresses that may materialize as learning problems at school-age. Sleep staging of the Electroencephalogram (EEG), followed by prediction of their brain-age from these sleep states can quantify deviations from normal brain development early (when compared to the known age). Current automation of this approach relies on explicit sleep state classification, optimizing algorithms using clinician visually labelled sleep stages, which remains a subjective gold-standard. Such models fail to perform consistently over a wide age range and impacts the subsequent brain-age estimates that could prevent identification of subtler developmental deviations. We introduce a Bayesian Network utilizing multiple Gaussian Mixture Models, as a novel, unified approach for directly estimating brain-age, simultaneously modelling for both age and sleep dependencies on the EEG, to improve the accuracy of prediction over a wider age range.},
+archivePrefix = {arXiv},
+arxivId = {1809.07102},
+author = {Pillay, Kirubin and {De Vos}, Maarten},
+doi = {10.1088/1741-2552/aaab73},
+eprint = {1809.07102},
+isbn = {17412560 (ISSN)},
+issn = {17412552},
+journal = {Journal of Neural Engineering},
+keywords = {EEG,Gaussian mixture models,automated sleep staging,generative models,hidden markov models,preterm newborn,term newborn},
+month = {sep},
+number = {3},
+pmid = {29380744},
+title = {{A unifying Bayesian approach for preterm brain-age prediction that models EEG sleep transitions over age}},
+url = {http://arxiv.org/abs/1809.07102},
+volume = {15},
+year = {2018}
+}
+
+@article{Mikkelsen2018,
+author = {Mikkelsen, Kaare B. and Ebajemito, James K. and Bonmati-Carrion, Maria A. and Santhi, Nayantara and Revell, Victoria L. and Atzori, Giuseppe and della Monica, Ciro and Debener, Stefan and Dijk, Derk-Jan and Sterr, Annette and de Vos, Maarten},
+doi = {10.1111/jsr.12786},
+issn = {09621105},
+journal = {Journal of Sleep Research},
+month = {nov},
+pages = {e12786},
+title = {{Machine-learning-derived sleep-wake staging from around-the-ear electroencephalogram outperforms manual scoring and actigraphy}},
+url = {http://doi.wiley.com/10.1111/jsr.12786},
+year = {2018}
+}
+
+
+@article{Palmius2018,
+author="Palmius, Niclas
+and Saunders, Kate E A
+and Carr, Oliver
+and Geddes, John R
+and Goodwin, Guy M
+and De Vos, Maarten",
+title="Group-Personalized Regression Models for Predicting Mental Health Scores From Objective Mobile Phone Data Streams: Observational Study",
+journal="J Med Internet Res",
+year="2018",
+month="Oct",
+day="22",
+volume="20",
+number="10",
+pages="e10194",
+abstract="Background: Objective behavioral markers of mental illness, often recorded through smartphones or wearable devices, have the potential to transform how mental health services are delivered and to help users monitor their own health. Linking objective markers to illness is commonly performed using population-level models, which assume that everyone is the same. The reality is that there are large levels of natural interindividual variability, both in terms of response to illness and in usual behavioral patterns, as well as intraindividual variability that these models do not consider. Objective: The objective of this study was to demonstrate the utility of splitting the population into subsets of individuals that exhibit similar relationships between their objective markers and their mental states. Using these subsets, ``group-personalized'' models can be built for individuals based on other individuals to whom they are most similar. Methods: We collected geolocation data from 59 participants who were part of the Automated Monitoring of Symptom Severity study at the University of Oxford. This was an observational data collection study. Participants were diagnosed with bipolar disorder (n=20); borderline personality disorder (n=17); or were healthy controls (n=22). Geolocation data were collected using a custom Android app installed on participants' smartphones, and participants weekly reported their symptoms of depression using the 16-item quick inventory of depressive symptomatology questionnaire. Population-level models were built to estimate levels of depression using features derived from the geolocation data recorded from participants, and it was hypothesized that results could be improved by splitting individuals into subgroups with similar relationships between their behavioral features and depressive symptoms. We developed a new model using a Dirichlet process prior for splitting individuals into groups, with a Bayesian Lasso model in each group to link behavioral features with mental illness. The result is a model for each individual that incorporates information from other similar individuals to augment the limited training data available. Results: The new group-personalized regression model showed a significant improvement over population-level models in predicting mental health severity (P<.001). Analysis of subgroups showed that different groups were characterized by different features derived from raw geolocation data. Conclusions: This study demonstrates the importance of handling interindividual variability when developing models of mental illness. Population-level models do not capture nuances in how different individuals respond to illness, and the group-personalized model demonstrates a potential way to overcome these limitations when estimating mental state from objective behavioral features. ",
+issn="1438-8871",
+doi="10.2196/10194",
+url="https://www.jmir.org/2018/10/e10194/",
+url="https://doi.org/10.2196/10194"
+}
+
 
 @article{Prince2018,
   author={John Prince and Siddharth Arora and De Vos, Maarten},
