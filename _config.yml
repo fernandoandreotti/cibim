@@ -27,6 +27,20 @@ people:
   social:
     - title: envelope
       url: mailto:jorne.laton@eng.ox.ac.uk
+
+- name: Kirubin Pillay
+  pic: kirubin
+  position: Postdoctoral Researcher
+  social:
+    - title: envelope
+      url: mailto:kirubin.pillay@eng.ox.ac.uk
+      
+- name: Oliver Carr
+  pic: oliver
+  position: Postdoctoral Researcher
+  social:
+    - title: envelope
+      url: mailto:oliver.carr@eng.ox.ac.uk
       
 - name: Suzanne Ftouni
   pic: suzanne
@@ -37,13 +51,6 @@ people:
     - title: linkedin
       url: https://www.linkedin.com/in/suzanne-ftouni-43a0984a/
       
-- name: Kirubin Pillay
-  pic: kirubin
-  position: DPhil Student
-  social:
-    - title: envelope
-      url: mailto:placeholder
-
 - name: Navin Cooray
   pic: navin
   position: DPhil Student
@@ -52,13 +59,6 @@ people:
       url: mailto:navin.cooray@eng.ox.ac.uk
     - title: linkedin
       url: https://www.linkedin.com/in/navincooray
-
-- name: Oliver Carr
-  pic: oliver
-  position: DPhil Student
-  social:
-    - title: envelope
-      url: mailto:placeholder
 
 - name: Andrew Creagh
   pic: andrew
